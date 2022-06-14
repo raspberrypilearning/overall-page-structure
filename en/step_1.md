@@ -1,59 +1,18 @@
-## Introduction
+There are four essential parts to a webpage that can be used to structure the layout. 
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+These are:
 
-### What you will make
+1. The header `<header>`
+2. The main content `<main>`
+3. A section of content `<section>`
+4. The footer `<footer>`
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+![A screenshot showing the structure of a webpage. A 1 is placed over the header area at the top. A 2 is placed to show the main content of the page. A 3 is placed to show a section of content. A 4 is placed to show the footer at the bottom of the page.](images/structure-diagram.png)
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+The **header** typically contains the title for the webpage.
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+The **main** is where you add all of the main content for your webpage. 
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+A **section** is used to divide the content of the main part of your webpage into different sections. This is useful because different styling can be applied to each section. 
 
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+The **footer** can be used for a fun greeting or for essential information like a contact or link to a feedback form. It is typically very small.  
