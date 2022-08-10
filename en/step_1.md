@@ -13,6 +13,6 @@ The **header** typically contains the title for the webpage.
 
 The **main** is where you add all of the main content for your webpage. 
 
-A **section** is used to divide the content of the main part of your webpage into different sections. This is useful because different styling can be applied to each section. 
+A **section** is used to divide the content of the main part of your webpage into different bits. This is useful because different styling can be applied to each section. 
 
 The **footer** can be used for a fun greeting or for essential information like a contact or link to a feedback form. It is typically very small.  
