@@ -7,7 +7,7 @@ These are:
 3. A section of content `<section>`
 4. The footer `<footer>`
 
-![A screenshot showing the structure of a webpage. A 1 is placed over the header area at the top. A 2 is placed to show the main content of the page. A 3 is placed to show a section of content. A 4 is placed to show the footer at the bottom of the page.](images/structure-diagram.png)
+![The structure of a webpage. The number '1' is placed over the header area at the top. The number '2' is placed to show the main content of the page. The number '3' is placed to show a section of content. The number '4' is placed to show the footer at the bottom of the page.](images/structure-diagram.png)
 
 The **header** typically contains the title for the webpage.
 
