@@ -1,18 +1,18 @@
-There are four essential parts to a webpage that can be used to structure the layout.
+Il y a quatre parties essentielles à une page web qui peuvent être utilisées pour structurer la mise en page.
 
-These are:
+Ce sont :
 
-1. The header `<header>`
-2. The main content `<main>`
-3. A section of content `<section>`
-4. The footer `<footer>`
+1. L'en-tête `<header>`
+2. Le contenu principal `<main>`
+3. Une section de contenu `<section>`
+4. Le pied de page `<footer>`
 
-![The structure of a webpage. The number '1' is placed over the header area at the top. The number '2' is placed to show the main content of the page. The number '3' is placed to show a section of content. The number '4' is placed to show the footer at the bottom of the page.](images/structure-diagram.png)
+![La structure d'une page web. Le chiffre '1' est placé sur la zone d'en-tête en haut. Le chiffre '2' est placé pour afficher le contenu principal de la page. Le chiffre '3' est placé pour afficher une section de contenu. Le chiffre '4' est placé pour afficher le pied de page au bas de la page.](images/structure-diagram.png)
 
-The **header** typically contains the title for the webpage.
+Le **header** contient généralement le titre de la page web.
 
-The **main** is where you add all of the main content for your webpage.
+Le **main** est l'endroit où tu ajoutes tout le contenu principal de ta page web.
 
-A **section** is used to divide the content of the main part of your webpage into different areas. This is useful because different styling can be applied to each section.
+Une **section** est utilisée pour diviser le contenu de la partie principale de ta page web en différentes zones. Ceci est utile car des styles différents peuvent être appliqués à chaque section.
 
-The **footer** can be used for a fun greeting or for essential information like a contact or link to a feedback form. It is typically very small.
+Le **footer** peut être utilisé pour une salutation amusante ou pour des informations essentielles comme un contact ou un lien vers un formulaire de commentaires. Il est généralement très petit.
