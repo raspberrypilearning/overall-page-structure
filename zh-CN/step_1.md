@@ -1,18 +1,18 @@
-There are four essential parts to a webpage that can be used to structure the layout.
+网页有四个基本部分可用于构建布局。
 
-These are:
+它们是：
 
-1. The header `<header>`
-2. The main content `<main>`
-3. A section of content `<section>`
-4. The footer `<footer>`
+1. 页眉 `<header>`
+2. 主要内容 `<main>`
+3. 一部分内容 `<section>`
+4. 页脚 `<footer>`
 
-![The structure of a webpage. The number '1' is placed over the header area at the top. The number '2' is placed to show the main content of the page. The number '3' is placed to show a section of content. The number '4' is placed to show the footer at the bottom of the page.](images/structure-diagram.png)
+![网页的结构。 数字 '1' 位于顶部的页眉区域上。 数字 '2' 用于显示页面的主要内容。 数字 '3' 用于显示一部分内容。 数字 '4' 用于显示页面底部的页脚。](images/structure-diagram.png)
 
-The **header** typically contains the title for the webpage.
+**header** 通常包含网页的标题。
 
-The **main** is where you add all of the main content for your webpage.
+**main** 是您添加网页所有主要内容的地方。
 
-A **section** is used to divide the content of the main part of your webpage into different areas. This is useful because different styling can be applied to each section.
+**section** 用于将网页主要部分的内容划分为不同的区域。 这很有用，因为可以对每个部分应用不同的样式。
 
-The **footer** can be used for a fun greeting or for essential information like a contact or link to a feedback form. It is typically very small.
+**footer** 可用于有趣的问候或重要信息，如联系方式或反馈表的链接。 它通常非常小。
